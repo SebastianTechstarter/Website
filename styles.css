@@ -1,0 +1,14 @@
+* {
+    text-decoration: none !important;
+    background-color: bisque;
+}
+
+.nav-list {
+    text-decoration: none !important;
+    list-style: none !important;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    gap: 10px;
+}

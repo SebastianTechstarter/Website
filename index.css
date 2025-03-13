@@ -1,0 +1,40 @@
+.btn {
+    padding: 10px 15px;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+    color: aliceblue;
+}
+
+.block1 {
+    text-align: center;
+    margin-top: 400px;
+}
+
+.block2 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    height: 100vh;
+}
+
+.contactnow:hover {
+    background-color: aliceblue;
+    transform: scale(1.1);
+}
+
+.logo_invertiert {
+    width: 300px;
+    height: 300px;
+}
+
+.entryfield {
+    background-color: white;
+    height: 600px;
+    width: 600px;
+}
