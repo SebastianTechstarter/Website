@@ -1,19 +1,15 @@
-.btn {
-    padding: 10px 15px;
-}
-
-.btn:hover {
-    background-color: aliceblue;
-    color: aliceblue;
+.content_wrap {
+    margin: 0 auto;
 }
 
 .block1 {
     text-align: center;
-    margin-top: 400px;
 }
 
 .block2 {
     font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
 }
 
 .contact-container {
@@ -26,15 +22,4 @@
 .contactnow:hover {
     background-color: aliceblue;
     transform: scale(1.1);
-}
-
-.logo_invertiert {
-    width: 300px;
-    height: 300px;
-}
-
-.entryfield {
-    background-color: white;
-    height: 600px;
-    width: 600px;
 }
